@@ -46,3 +46,25 @@ Neste projeto **React**, desenvolvido com base nas sugestões de um curso online
 **OBS:** Após o comando "npm run dev", o app mostrará no terminal, o link do localhost para acessa-lo.
 
 </details>
+
+## 👉 Imagens do projeto
+
+<br>
+
+![Exemplo da tela inicial](src/assets/start-image.png)
+
+<br>
+
+![Exemplo da tela principal](src/assets/main-image.png)
+
+<br>
+
+![Exemplo da tela de vitoria](src/assets/win-image.png)
+
+<br>
+
+### ☝ Desenvolvimento da Aplicação:
+
+- Leandro Bertholini
+
+
