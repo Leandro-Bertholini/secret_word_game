@@ -1,4 +1,4 @@
-<!-- # `Projeto Secret Word Game - React `
+# `Projeto Secret Word Game - React `
 
 ## Visão Geral
 Neste projeto **React**, desenvolvido com base nas sugestões de um curso online, foi criada uma interface de jogo cujo objetivo principal é acertar a palavra correta em até três tentativas, escolhendo as letras certas. Nesta implementação, temos uma aplicação que **gerencia** seus **estados** e respeita as etapas do jogo. Além disso, incluímos um **sistema de avanço** que **apresenta** novas **palavras**, **aumenta a pontuação** e **permite reiniciar** o jogo por **completo**. Tudo isto, seguindo uma **lógica**  de **negócio**, criando um arquivo para **base de dados**, utilizando os **Hooks** do React e estilizando com o **CSS**.
@@ -51,16 +51,16 @@ Neste projeto **React**, desenvolvido com base nas sugestões de um curso online
 
 <br>
 
-![Exemplo da tela inicial](src/assets/start-image.png)
-<img src="src/assets/start-image.png" alt="Exemplo da tela inicial" width="100%">
+<!-- ![Exemplo da tela inicial](src/assets/start-image.png) -->
+<img src="assets/start-image.png" alt="Exemplo da tela inicial" width="50%">
 
 <br>
 
-![Exemplo da tela principal](src/assets/main-image.png)
+<img src="assets/main-image.png" alt="Exemplo da tela principal" width="50%">
 
 <br>
 
-![Exemplo da tela de vitoria](src/assets/win-image.png)
+<img src="assets/win-image.png" alt="Exemplo da tela de vitória" width="50%">
 
 <br>
 
@@ -68,4 +68,4 @@ Neste projeto **React**, desenvolvido com base nas sugestões de um curso online
 
 - Leandro Bertholini
 
- -->
+
